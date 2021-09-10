@@ -1,0 +1,2 @@
+* * * * * /app/aleartservice/ebayalert/batch/check_schedules.sh 0 /usr/local/bin/python /app/aleartservice/ebayalert from_cron >> /var/log/cron.log 2>&1
+* * * * * sleep 30 && /app/aleartservice/ebayalert/batch/check_schedules.sh 0 /usr/local/bin/python /app/aleartservice/ebayalert from_cron >> /var/log/cron.log 2>&1

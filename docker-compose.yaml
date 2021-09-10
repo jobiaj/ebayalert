@@ -1,0 +1,47 @@
+version: '3'
+
+version: '3'
+
+services:
+  db:
+    image: postgres:11-alpine
+    restart: always
+    environment:
+      - POSTGRES_DB=postgres1
+      - POSTGRES_USER=postgres1
+      - POSTGRES_PASSWORD=postgres1
+    ports:
+      - "5432:5432"
+  django:
+    build: ./aleartservice
+    restart: always
+    command : bash -c "crontab /etc/cron.d/schedule-cron && python manage.py migrate &&
+                  python manage.py runserver 0.0.0.0:7777" 
+    volumes:
+      - ./aleartservice:/app/aleartservice
+    ports:
+      - "7777:7777"
+    depends_on:
+      - db
+  frontend:
+    build: ./ebayaleartfrontend
+    command: ["npm", "start"]
+    volumes:
+      - ./ebayaleartfrontend:/app/ebayaleartfrontend
+      - node-modules:/app/ebayaleartfrontend/node_modules
+    depends_on:
+      - django
+    ports:
+      - "3000:3000"
+  flask:
+    build: ./alertanalyser
+    restart: always
+    command : bash -c "python alertanalyser.py" 
+    volumes:
+      - ./alertanalyser:/app/alertanalyser
+    ports:
+      - "5000:5000"
+    depends_on:
+      - django
+volumes:
+  node-modules:

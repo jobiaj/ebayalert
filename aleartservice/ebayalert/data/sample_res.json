@@ -1,0 +1,273 @@
+{
+    "href": "https://api.ebay.com/buy/browse/v1/item_summary/search?q=phone&limit=3&category_ids=220&offset=0",
+    "total": 20131,
+    "next": "https://api.ebay.com/buy/browse/v1/item_summary/search?q=phone&limit=3&category_ids=220&offset=3",
+    "limit": 3,
+    "offset": 0,
+    "itemSummaries": [
+        {
+            "itemId": "v1|3**********1|0",
+            "title": "Kids Child Screen Educational Learning Toy Simulator Music Cell Phone Touch ",
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/1**********A/s-l225.jpg"
+            },
+            "price": {
+                "value": "6.17",
+                "currency": "USD"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|3**********1|0",
+            "seller": {
+                "username": "l***9",
+                "feedbackPercentage": "98.7",
+                "feedbackScore": 39848
+            },
+            "condition": "New",
+            "conditionId": "1000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/00/s/M**********w/z/1MoAAOSwvDpbKgFA/$_0.JPG?set_id=8**********F"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "0.00",
+                        "currency": "USD"
+                    }
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE"
+            ],
+            "currentBidPrice": {
+                "value": "6.17",
+                "currency": "USD"
+            },
+            "itemWebUrl": "https://www.ebay.com/itm/Kids-Child-Screen-Educational-Learning-Toy-Simulator-Music-Cell-Phone-Touch/3**********1?hash=item4**********A",
+            "itemLocation": {
+                "country": "US"
+            },
+            "categories": [
+                {
+                    "categoryId": "100227"
+                },
+                {
+                    "categoryId": "158695"
+                },
+                {
+                    "categoryId": "220"
+                },
+                {
+                    "categoryId": "2984"
+                },
+                {
+                    "categoryId": "11731"
+                },
+                {
+                    "categoryId": "19068"
+                },
+                {
+                    "categoryId": "177915"
+                }
+            ],
+            "additionalImages": [
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/3**********1_2_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/3**********1_3_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/3**********1_4_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/3**********1_5_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/3**********1_6_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/33**********1_7_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/3**********1_8_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/3**********1_9_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/3**********1_10_0_1/225x225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "availableCoupons": false,
+            "legacyItemId": "3**********1"
+        },
+        {
+            "itemId": "v1|1**********4|0",
+            "title": "Vintage 1996 MB Electronic Dream Phone Board Game Missing 1 Card Works",
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/8**********R/s-l225.jpg"
+            },
+            "price": {
+                "value": "49.99",
+                "currency": "USD"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|1**********4|0",
+            "seller": {
+                "username": "m***n",
+                "feedbackPercentage": "99.9",
+                "feedbackScore": 3032
+            },
+            "condition": "Used",
+            "conditionId": "3000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/00/s/M**********4/z/8UoAAOSw5KFbSTBR/$_0.JPG?set_id=8**********F"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "0.00",
+                        "currency": "USD"
+                    }
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE"
+            ],
+            "currentBidPrice": {
+                "value": "49.99",
+                "currency": "USD"
+            },
+            "itemWebUrl": "https://www.ebay.com/itm/Vintage-1996-MB-Electronic-Dream-Phone-Board-Game-Missing-1-Card-Works/1**********4?hash=item2**********R",
+            "itemLocation": {
+                "postalCode": "2****",
+                "country": "US"
+            },
+            "categories": [
+                {
+                    "categoryId": "180349"
+                },
+                {
+                    "categoryId": "220"
+                },
+                {
+                    "categoryId": "233"
+                },
+                {
+                    "categoryId": "2550"
+                }
+            ],
+            "additionalImages": [
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/1**********4_2_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/1**********4_3_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/1**********4_4_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/1**********4_5_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/1**********4_6_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/1**********4_7_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/1**********4_8_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/1**********4_9_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/1**********4_10_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/1**********4_11_0_1/225x225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "availableCoupons": false,
+            "legacyItemId": "1**********4"
+        },
+        {
+            "itemId": "v1|1**********1|0",
+            "title": "LeapFrog Chat and Count Smart Phone ~ Leap Frog Scout 18+ Months NEW IN PACKAGE",
+            "image": {
+                "imageUrl": "https://i.ebayimg.com/thumbs/images/g/N**********5/s-l225.jpg"
+            },
+            "price": {
+                "value": "8.50",
+                "currency": "USD"
+            },
+            "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1|1**********1|0",
+            "seller": {
+                "username": "k***n",
+                "feedbackPercentage": "100.0",
+                "feedbackScore": 215
+            },
+            "condition": "New",
+            "conditionId": "1000",
+            "thumbnailImages": [
+                {
+                    "imageUrl": "https://i.ebayimg.com/00/s/M**********w/z/Nl0AAOSwzQ1bPXG5/$_0.JPG?set_id=8**********F"
+                }
+            ],
+            "shippingOptions": [
+                {
+                    "shippingCostType": "FIXED",
+                    "shippingCost": {
+                        "value": "5.00",
+                        "currency": "USD"
+                    }
+                }
+            ],
+            "buyingOptions": [
+                "FIXED_PRICE"
+            ],
+            "currentBidPrice": {
+                "value": "8.50",
+                "currency": "USD"
+            },
+            "epid": "1286192725",
+            "itemWebUrl": "https://www.ebay.com/itm/LeapFrog-Chat-and-Count-Smart-Phone-Leap-Frog-Scout-18-Months-NEW-IN-PACKAGE/1**********1?hash=item2**********5",
+            "itemLocation": {
+                "postalCode": "2****",
+                "country": "US"
+            },
+            "categories": [
+                {
+                    "categoryId": "19181"
+                },
+                {
+                    "categoryId": "220"
+                },
+                {
+                    "categoryId": "19169"
+                }
+            ],
+            "additionalImages": [
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/1**********1_2_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/1**********1_3_0_1/225x225.jpg"
+                },
+                {
+                    "imageUrl": "https://galleryplus.ebayimg.com/ws/web/1**********1_4_0_1/225x225.jpg"
+                }
+            ],
+            "adultOnly": false,
+            "availableCoupons": false,
+            "legacyItemId": "1**********1"
+        }
+    ]
+}
