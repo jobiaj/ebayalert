@@ -13,7 +13,7 @@ Setting up the applications:
 3. from the base directory, where the docker-compose.yaml is there, run <b> docker-compose build </b>
 4. Once the build is completed, run <b> docker-compose up </b> to bring up the application.
 5. run docker ps -a to see all required components are up and running or not.
-6. Get the container ID of <b> alertsystem_django </b> then run <b> docker exec -it <Container ID of Django> bash service cron start </b>.
+6. Get the container ID of <b> ebayalert_django </b> then run <b> docker exec -it <Container ID of Django> bash service cron start </b>.
 7. Navigate to http://localhost:3000, And create the schedules.
 
  Please find the architeture diagram below.
