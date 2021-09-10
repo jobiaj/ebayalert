@@ -16,4 +16,7 @@ Setting up the applications:
 6. Get the container ID of <b> alertsystem_django </b> then run <b> docker exec -it <Container ID of Django> bash service cron start </b>.
 7. Navigate to http://localhost:3000, And create the schedules.
 
+ Please find the architeture diagram below.
+  
+![alertsystem](https://user-images.githubusercontent.com/8805606/132820577-e3d5ddb8-2075-44a7-ae86-cac28242f35a.jpg)
 
